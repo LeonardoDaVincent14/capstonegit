@@ -1,2 +1,2 @@
-# capstonegit
+# capstone-frontend
 PROJECT
